@@ -1,5 +1,8 @@
 # LYMN Programming Language
 
+## Get the updated code on XS code
+https://cp.xscode.com/Jovonni/LYMN
+
 ### Purpose
 LYMN aims to democratize the process by which someone develops a program through natural language
 
